@@ -1,4 +1,4 @@
-# Rollout.io [http://rollout.io](http://www.rollout.io?utm_source=github)
+# Rollout.io
 
 Patch live native iOS apps instantly from the cloud and solve issues in minutes.
 
